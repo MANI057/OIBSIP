@@ -2,8 +2,8 @@
 # WebDev-L1-LandingPage
 
 ## Project Overview
-Nova Studio is a fictional creative digital brand landing page
-created for the Oasis Infobyte Web Development & Designing internship.
+This Studio Nova is a fictional creative digital brand landing page
+created to use the Oasis Infobyte Web Development & Designing internship.
 
 ## Technologies Used
 - HTML5
